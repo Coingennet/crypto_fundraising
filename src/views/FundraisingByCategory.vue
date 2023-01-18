@@ -98,7 +98,7 @@ export default {
     infrastructure: {
       name: "Infrastructure",
       data: [],
-      color: "#77ff77",
+      color: "#3dca3d",
       dataGrouping: {
         units: groupingUnits,
       },

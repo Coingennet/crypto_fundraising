@@ -38,7 +38,7 @@ var pieColors = [
   "#8ab4f8",
   "#6495ED",
   "#01bbbb",
-  "#77ff77",
+  "#3dca3d",
   "#aecbfa",
   "rgb(234 179 8)",
   "orange ",
