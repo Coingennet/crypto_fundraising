@@ -248,7 +248,7 @@ export default {
           ).length,
         },
         {
-          name: "Seed",
+          name: "Strategic",
           count: roundArr.filter(
             (x) =>
               x?.toLowerCase().replace(/\s/g, "").replace("-", "") ==
