@@ -491,7 +491,7 @@ export default {
               v.category[1].count++;
             else if (
               ["market maker", "exchange"].some((x) => {
-                if (!e?.toLowerCase().includes(x))
+                if (!e?.toLowerCase().includes("decentralized exchange"))
                   return e?.toLowerCase().includes(x);
               })
             )
