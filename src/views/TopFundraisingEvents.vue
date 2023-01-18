@@ -22,7 +22,7 @@
           <th class="w-[17%]">Project</th>
           <th class="w-[17%]">Value (USD)</th>
           <th class="w-[20%]">Round</th>
-          <th class="w-[27%]">Investors</th>
+          <th class="w-[25%]">Investors</th>
           <th>Chain</th>
           <th>Category</th>
         </tr>
